@@ -12,4 +12,4 @@ End of Execution:
 The program will continue selecting processes until there are no processes left in the scheduling queue.
 
 Exit:
-Once all processes have been selected, the progra
+Once all processes have been selected, the program exits.
